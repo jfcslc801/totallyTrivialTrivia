@@ -2,4 +2,4 @@
 
 # Getting Started
 ---
-[Play Here: ](https://jfcslc801.github.io/triviaGame/)
+[Play Here: https://jfcslc801.github.io/triviaGame/](https://jfcslc801.github.io/triviaGame/)
