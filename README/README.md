@@ -1,5 +1,6 @@
 # Totally Trivial Trivia
-University of Utah Coding Bootcamp Week 5 Assignment: Trivia Game!
+University of Utah Coding Bootcamp.  
+- Week 5 Assignment: Trivia Game!
 
 ---
 Assignment: Create a timed trivia game. Timer set at 10 seconds for each question. Once the game is complete the final scoreboard reflects player score based on correct, incorrect and unanswered questions.
@@ -26,9 +27,8 @@ Select wrong answer:
 - New question is generated.
 ![Screenshot](gameWrongAnswer.png)
 
-Running out of time: 
-- 5 second warning sound plays.  
-When out of time:
+Out of time: 
+- 5 second warning sound plays before time is up. 
 - Right answer and image pops up.
 - Sound plays.
 - New question is generated.
