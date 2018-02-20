@@ -15,26 +15,28 @@ Random questions loaded along with multiple choice answers.
 ![Screenshot](gameQuestions.png)
 
 Select right answer: 
--Right answer and image pops up.
--Sound plays.
--New question is generated.
+- Right answer and image pops up.
+- Sound plays.
+- New question is generated.
 ![Screenshot](gameRightAnwer.png)
 
 Select wrong answer: 
--Right answer and image pops up.
--Sound plays.
--New question is generated.
+- Right answer and image pops up.
+- Sound plays.
+- New question is generated.
 ![Screenshot](gameWrongAnswer.png)
 
 Running out of time: 
--5 second warning sound plays.
+- 5 second warning sound plays.
 When out of time:
--Right answer and image pops up.
--Sound plays.
--New question is generated.
+- Right answer and image pops up.
+- Sound plays.
+- New question is generated.
 ![Screenshot](outOfTime.png)
 
-Game complete: Players scores displayed based on correct, incorrect and unanswered questions. Game can be re started with reset button.
+Game complete: 
+- Players scores displayed based on correct, incorrect and unanswered questions.
+- Game can be re started with reset button.
 ![Screenshot](gameComplete.png)
 
 ## Technologies used
@@ -61,4 +63,4 @@ Game complete: Players scores displayed based on correct, incorrect and unanswer
 
 ## Acknowledgments
 
-*University of Utah Coding Bootcamp for additional help.
+* Thanks to **University of Utah Coding Bootcamp** for additional help.
