@@ -27,7 +27,7 @@ Select wrong answer:
 ![Screenshot](gameWrongAnswer.png)
 
 Running out of time: 
-- 5 second warning sound plays.
+- 5 second warning sound plays.  
 When out of time:
 - Right answer and image pops up.
 - Sound plays.
