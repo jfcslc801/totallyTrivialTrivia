@@ -82,10 +82,10 @@ var game = {
     },
     results: function () {
         clearInterval(timer);
-        $("#subwrapper").html('<h1>GAME OVER!</h1>');
-        $("#subwrapper").append('<h1>CORRECT: ' + game.correct + '</h1>');
-        $("#subwrapper").append('<h1>INCORRECT: ' + game.incorrect + '</h1>');
-        $("#subwrapper").append('<h1>UNANSWERED: ' + game.unanswered + '</h1>');
+        $("#subwrapper").html('<h1>Game Complete!</h1>');
+        $("#subwrapper").append('<h2>CORRECT: ' + game.correct + '</h2>');
+        $("#subwrapper").append('<h2>INCORRECT: ' + game.incorrect + '</h2>');
+        $("#subwrapper").append('<h2>UNANSWERED: ' + game.unanswered + '</h2>');
         $("#subwrapper").append("<button id='reset'>RESET</button>"); //adds button to results page to reset game
 
 
